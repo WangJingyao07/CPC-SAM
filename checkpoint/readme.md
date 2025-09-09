@@ -1,10 +1,8 @@
 checkpoint for cpc-sam
 
 Due to the file size limit of GitHub, please download from Google Drive:
+https://drive.google.com/file/d/13lnQxkC5qRF52wbAso8JACKiH3QClKLO/view?usp=drive_link
 
 
-or Hugging Face:
-
-
-Uploading...
-<img width="2720" height="455" alt="70be4279-eca9-412b-80b0-ca80ee4adc36" src="https://github.com/user-attachments/assets/ae772a46-3637-477f-beb6-1421f4cc9d91" />
+or Hugging Face Link:
+https://huggingface.co/Buqi7/sam_vit_b_01ec64/tree/main
