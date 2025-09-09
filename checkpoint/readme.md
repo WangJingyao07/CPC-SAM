@@ -10,4 +10,5 @@ https://drive.google.com/file/d/13lnQxkC5qRF52wbAso8JACKiH3QClKLO/view?usp=drive
 or Hugging Face Link:
 
 https://huggingface.co/Buqi7/sam_vit_b_01ec64/tree/main
-<img width="1068" height="310" alt="c05cd5c5-7942-4cc5-af85-19028e2c2784" src="https://github.com/user-attachments/assets/f6e709fd-a61a-42fc-9cc2-b6b15d43ba08" />
+<img width="2653" height="725" alt="1ce88b15-3d05-4f43-8ada-ab0bc1d771c2" src="https://github.com/user-attachments/assets/b4de9de1-d10f-4b96-9c23-9fd1599bc1b2" />
+
