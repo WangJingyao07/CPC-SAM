@@ -1,5 +1,3 @@
-checkpoint for cpc-sam
-
 Due to the file size limit of GitHub, please download from Google Drive:
 
 https://drive.google.com/file/d/13lnQxkC5qRF52wbAso8JACKiH3QClKLO/view?usp=drive_link
